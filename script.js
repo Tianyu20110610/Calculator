@@ -17,5 +17,6 @@ function calc(){
     else if (op == 'mod')
       result = num1 % num2
     document.getElementById('result').innerHTML = result
-  }
+}
   
+
